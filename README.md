@@ -34,6 +34,7 @@ Network Distance: 1 hop
 Service Info: OSs: Unix, Linux; CPE: cpe:/o:linux:linux_kernel
 ```
 
+<img src="https://github.com/El-Palomo/DerpNStink/blob/main/derp1.jpg" width=80% />
 
 
 
